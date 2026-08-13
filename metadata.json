@@ -1,0 +1,6 @@
+{
+  "name": "Copy Text",
+  "description": "Lightweight, fast offline OCR app to extract and copy text from images in English, Hindi, and Punjabi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
